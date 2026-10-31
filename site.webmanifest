@@ -1,0 +1,12 @@
+{
+  "name": "ЖК «Нева Арт»",
+  "short_name": "Нева Арт",
+  "icons": [
+    { "src": "/favicon_96.png", "sizes": "96x96", "type": "image/png" },
+    { "src": "/favicon_192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon_512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#221615",
+  "background_color": "#f4efe8",
+  "display": "standalone"
+}
